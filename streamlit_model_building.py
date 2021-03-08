@@ -33,5 +33,4 @@ clf = GradientBoostingClassifier(subsample=0.8,
 clf.fit(X, Y)
 
 # Saving the model
-import pickle
 pickle.dump(clf, open('churn_clf.pkl', 'wb'))
