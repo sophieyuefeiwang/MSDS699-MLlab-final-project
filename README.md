@@ -5,10 +5,11 @@ As a business owner, your priority is not only how to acquire customers, but als
 
 This is the project I did for a machine learning course in University of San Francisco Masters of Data Science program. In this project, I completed the end-to-end machine learning workflow including:
 
-1) EDA and Visualization
-2) Feature Engineering 
-3) Model Selection
-4) Examine feature importance on the winnder model
-5) Winnder Model deployment using Streamlit
+1) EDA and visualization
+2) Feature engineering 
+3) Model selection with cross validation 
+4) Evaluation metric on the winnder model
+5) Examine feature importance on the winner model
+6) Winnder Model web app deployment  using Streamlit
 
 Please find all the relavant code in this repository and the recorded presentation video can be founded here: https://www.youtube.com/watch?v=GLaEPvKh0qE
