@@ -10,6 +10,6 @@ This is the project I did for a machine learning course in University of San Fra
 3) Model selection with cross validation 
 4) Evaluation metric on the winnder model
 5) Examine feature importance on the winner model
-6) Winnder Model web app deployment  using Streamlit
+6) Winner Model web app deployment  using Streamlit
 
 Please find all the relavant code in this repository and the recorded presentation video can be founded here: https://www.youtube.com/watch?v=GLaEPvKh0qE
