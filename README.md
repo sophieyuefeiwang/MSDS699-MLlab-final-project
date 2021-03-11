@@ -16,6 +16,6 @@ In this project, I completed the end-to-end machine learning workflow for an imb
 5) Examine feature importance on the winner model
 6) Winner Model web app deployment using Streamlit
 
-Winnder model: Gradient Boosting
+Winner model: Gradient Boosting
 
 Please find all the relevant code in this repository and the recorded presentation video can be found here on YouTube: https://www.youtube.com/watch?v=GLaEPvKh0qE
