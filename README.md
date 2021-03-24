@@ -14,7 +14,7 @@ In this project, I completed the end-to-end machine learning workflow for an imb
 3) Model selection with cross validation 
 4) Evaluation metric on the winner model
 5) Examine feature importance on the winner model
-6) Winner Model web app deployment using Streamlit, the web app URL is [here](https://bank-churner.herokuapp.com/)
+6) Winner Model web app deployment using Streamlit, the web app URL is [here](https://bank-churner.herokuapp.com/)  (The files required for deployment on Heroku can be found [here](https://github.com/sophieyuefeiwang/bank-churner-heroku))
 
 Winner model: Gradient Boosting
 
